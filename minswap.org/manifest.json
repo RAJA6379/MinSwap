@@ -1,0 +1,36 @@
+{
+  "short_name": "Minswap",
+  "name": "Minswap DEX",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-maskable-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/android-chrome-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#2f45c5",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "description": "Discover Minswap, a leading Cardano DEX with low fees, seamless swaps, staking, farming, and community-driven governance.",
+  "dir": "ltr",
+  "orientation": "portrait"
+}

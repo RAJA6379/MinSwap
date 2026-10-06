@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="50" viewBox="0 0 250 50" fill="none">
+<rect width="250" height="50" fill="url(#pattern0_21829_189663)"/>
+<defs>
+  <pattern id="pattern0_21829_189663" patternUnits="userSpaceOnUse" patternTransform="matrix(4 0 0 4 0 0)" preserveAspectRatio="none" viewBox="0 0 4 4" width="1" height="1">
+    <g id="pattern0_21829_189663_inner">
+      <circle cx="1" cy="1" r="1" fill="currentColor"/>
+    </g>
+  </pattern></defs>
+</svg>
